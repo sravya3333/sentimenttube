@@ -1,0 +1,5 @@
+{
+  "name": "SentimentTube",
+  "description": "Full-stack YouTube comment sentiment analyzer using Gemini AI and Recharts.",
+  "requestFramePermissions": []
+}
